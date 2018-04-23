@@ -1,7 +1,7 @@
 import React from 'react';
 import topView from 'rn-topview';
 import PromptContainer from './PromptContainer.native';
-import { CallbackOrActions } from './PropsType';
+import { CallbackOrActions } from './PropsType.native';
 
 export default function prompt(
   title: JSX.Element,

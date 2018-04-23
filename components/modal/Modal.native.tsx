@@ -12,7 +12,7 @@ import {
   ViewStyle,
 } from 'react-native';
 import RCModal from 'rmc-dialog/lib/Modal';
-import { ModalPropsType } from './PropsType';
+import { ModalPropsType } from './PropsType.native';
 import modalStyle, { IModalStyle } from './style/index.native';
 
 const maxHeight = StyleSheet.create({

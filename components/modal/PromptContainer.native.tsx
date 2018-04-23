@@ -8,7 +8,7 @@ import {
   View,
 } from 'react-native';
 import Modal from './Modal';
-import { CallbackOrActions } from './PropsType';
+import { CallbackOrActions } from './PropsType.native';
 import promptStyle, { IPromptStyle } from './style/prompt.native';
 
 export interface PropmptContainerProps {

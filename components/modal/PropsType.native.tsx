@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleProp, TextStyle } from 'prop-types';
+import { StyleProp, TextStyle } from 'react-native';
 
 export interface ModalPropsType {
   title?: JSX.Element;
